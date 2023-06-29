@@ -1,8 +1,3 @@
----
-title: Home
-layout: default
----
-
 # Datium Corp.
 
 ## Our Mission
@@ -41,24 +36,29 @@ layout: default
 ## 구성원 소개
 
 저희는 초등학교 동창, 대학 동문, 콴다 알럼니들이 모여서 5인이 전업으로 창업한 회사입니다.
+
 특히 이 중 4명이 콴다에서의 OCR 기반 검색을 꾸준히 발전시켜왔고 지금에 이르러 ChatGPT 같은 최신 AI 기술을 활용한 차세대 검색의 비전을 가지게 되었습니다.
 
 구성원의 상세 프로필은 링크드인 회사 페이지에서 확인하실 수 있습니다.
-[https://www.linkedin.com/company/90642050](https://www.linkedin.com/company/90642050)
 
 ## 포트폴리오
 
 1-2주 정도의 기간을 두고 빠르게 하나의 시제품을 만들기로 약속해서 현재 3개의 시제품이 나와있습니다.
 
-- 홈택스 메뉴를 찾기 위한 [https://awaytax.com/](https://awaytax.com/)
-- 넷플릭스 컨텐츠 탐색을 도와주는 [https://magnetflix.com/](https://magnetflix.com/)
-- 내 주변 맛집 탐색을 도와주는 [https://foodiespick.com/](https://foodiespick.com/)
+- 홈택스 메뉴를 찾기 위한 https://awaytax.com/
+
+- 넷플릭스 컨텐츠 탐색을 도와주는 https://magnetflix.com/
+
+- 내 주변 맛집 탐색을 도와주는 https://foodiespick.com/
+
 - 자동차 용품 판매자와 소비자를 이어주려는 [https://hitchhicar.com/](https://foodiespick.com/)
 
 ## 연락처
 
-대표 이메일: [key.eu](http://key.eu)@datium.xyz (유가온)
+대표 이메일: [key.eu@datium.xyz](https://www.notion.so/Datium-Corp-62660ca395304cc18b778eac9bc0e638?pvs=21) (유가온)
 
-회사 주소: 서울특별시 관악구 남부순환로 1921-1 3층 301-A1호 ([네이버지도](https://naver.me/FxX6O7F4), [카카오지도](https://place.map.kakao.com/23898931))
+회사 주소: 서울특별시 관악구 남부순환로 1921-1 3층 301-A1호 [네이버지도](https://naver.me/FxX6O7F4), [카카오지도](https://place.map.kakao.com/23898931)
 
 데이티움에 관심이 있으시거나 미래의 검색에 대해 이야기를 나누고 싶으시다면 언제나 환영입니다.
+
+![Untitled](Datium%20Corp%2062660ca395304cc18b778eac9bc0e638/Untitled.png)
