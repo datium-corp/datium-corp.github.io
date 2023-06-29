@@ -1,3 +1,8 @@
+---
+title: Home
+layout: default
+---
+
 # Datium Corp.
 
 ## Our Mission
