@@ -47,7 +47,7 @@
 
 1-2주 정도의 기간을 두고 빠르게 하나의 시제품을 만들기로 약속해서 현재 4개의 시제품이 나와있습니다.
 
-- 자동차 용품 판매자와 소비자를 이어주려는 [Hitchicar](https://hitchhicar.com/) ([Android](https://play.google.com/store/apps/details?id=com.hitchhicar))
+- 자동차 용품 판매자와 소비자를 이어주려는 [Hitchicar](https://hitchhicar.com/) ([Android](https://play.google.com/store/apps/details?id=com.hitchhicar), [iOS](https://apps.apple.com/app/id6450913712))
 - 내 주변 맛집 탐색을 도와주는 [foodiespick](https://foodiespick.com/)
 - 넷플릭스 컨텐츠 탐색을 도와주는 [Magnetflix](https://magnetflix.com/)
 - 홈택스 메뉴를 찾기 위한 [Awaytax](https://awaytax.com/)
