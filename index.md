@@ -6,7 +6,7 @@
 
 🇰🇷: 인간을 중심에 두고, 고객과 제품을 위한 최선보다 나은 길을 믿고 증명하는 것입니다.
 
-🇻🇳: Lấy con người làm trọng tâm, chúng tôi tin rằng luôn có cách tốt chất dành cho khách hàng và sản phẩm.
+🇻🇳: Lấy con người làm trọng tâm, chúng tôi tin rằng luôn có cách tốt nhất dành cho khách hàng và sản phẩm.
 
 ## Our Vision
 
