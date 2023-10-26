@@ -42,7 +42,7 @@ AI 의 파도는 기존의 수많은 서비스들을 대체하고 컨텐츠들�
 
 저희는 초등학교 동창, 대학 동문, 콴다 출신 개발자들이 모여서 5인이 전업으로 창업한 회사입니다.
 
-월 방문자수 1000만 명의 AI 교육 랫폼 콴다에서 핵심 기능인 검색을 3, 4년 간 발전시켜왔습니다.
+월 방문자수 1000만 명의 AI 교육 플랫폼 콴다에서 핵심 기능인 검색을 3, 4년 간 발전시켜왔습니다.
 
 (구성원의 상세 프로필은 링크드인 회사 페이지에서 확인하실 수 있습니다.)
 
@@ -55,12 +55,6 @@ AI 의 파도는 기존의 수많은 서비스들을 대체하고 컨텐츠들�
 2023.07. ~
 
 - AI 카메라와 카테고리 자동 분류 기반 자동차 사진 공유 커뮤니티 [Hitchicar](https://hitchhicar.com/) ([Android](https://play.google.com/store/apps/details?id=com.hitchhicar), [iOS](https://apps.apple.com/app/id6450913712))
-
-2023.04. ~ 2023.07.
-
-- 내 주변 맛집 탐색을 도와주는 [foodiespick](https://foodiespick.com/)
-- 넷플릭스 컨텐츠 탐색을 도와주는 [Magnetflix](https://magnetflix.com/)
-- 홈택스 메뉴를 찾기 위한 [Awaytax](https://awaytax.com/)
 
 ## 연락처
 
