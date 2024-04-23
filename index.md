@@ -20,11 +20,11 @@ AI 의 파도는 기존의 수많은 서비스들을 대체하고 컨텐츠들�
 
 한편, 사람 간의 소통은 실시간성과 원천 데이터로서 중요하고 강해질 것이라고 믿습니다.
 
-이 둘이 합쳐진 새로운 개념으로 community + AI (utility) 를 뜻하는 커뮤틸리티를 제시합니다.
+이 둘이 합쳐진 새로운 개념으로 Community + Utility(AI) 를 뜻하는 커뮤틸리티를 제시합니다.
 
 ## Our Near Goal
 
-*정보의 부재로부터 자동차 전문가와 운전자들을 해방시키다*
+***정비의 재정비**: 전문가(정비사), 자동차, 운전자를 이어주는 음성/사진 기반의 인터페이스*
 
 데이티움에서 바라보는 커뮤틸리티의 시작은 전세계에 15억대 이상 존재하는 자동차로부터 입니다.
 
@@ -32,7 +32,7 @@ AI 의 파도는 기존의 수많은 서비스들을 대체하고 컨텐츠들�
 
 그간 기술적 시대적 한계로 혁신되기 어려웠으나, 새로운 시기와 시각에서 도전하고자 합니다.
 
-- 자동차 세차, 정비, 매매 같은 기존의 기술 수혜를 받지 못한 전문가들의 편에 서는 것으로,
+- 자동차 정비, 세차, 매매 같은 기존의 기술 수혜를 받지 못한 전문가들의 편에 서는 것으로,
 - 이미지 분석, 음성 인식, 마케팅 최적화 같은 AI 기술을 통해 업무 효율을 이뤄내고,
 - ChatGPT 형태의 Car AI(가칭)를 제공하여 이를 극대화하여 실제 운전자들까지 이어줍니다.
 
@@ -48,20 +48,22 @@ AI 의 파도는 기존의 수많은 서비스들을 대체하고 컨텐츠들�
 
 ## 포트폴리오
 
-2023.10. 호스([HOS](https://www.notion.so/OS-HOS-ffed94ed8c7f48de93d63a670e290724?pvs=21)) ([안드로이드](https://play.google.com/store/apps/details?id=com.hitchicar_expert&pli=1))
+2023.10. 호스([소개 페이지,](https://carhos.com) [안드로이드,](https://play.google.com/store/apps/details?id=com.hitchicar_expert&pli=1) [iOS](https://apps.apple.com/app/id6498703050))
 
 - 자동차 전문가를 위한 AI 고객 관리, 장부 지표 분석, 마케팅 이벤트 최적화 시스템
 
-2023.07. 히치카([Hitchicar](https://hitchhicar.com/))
+2023.07. 히치카([소개 페이지](https://hitchhicar.com/), [안드로이드](https://play.google.com/store/apps/details?id=com.hitchhicar), [iOS](https://apps.apple.com/app/id6450913712))
 
-- AI 카메라와 카테고리 자동 분류 기반 자동차 사진 공유 커뮤니티 ([안드로이드](https://play.google.com/store/apps/details?id=com.hitchhicar), [iOS](https://apps.apple.com/app/id6450913712))
+- AI 카메라와 카테고리 자동 분류 기반 자동차 사진 공유 커뮤니티
 
 ## 연락처
 
 대표 이메일: [key.eu@datium.xyz](https://www.notion.so/Overview-62660ca395304cc18b778eac9bc0e638?pvs=21) (유가온)
 
-회사 주소: 서울특별시 관악구 남부순환로 1921-1 3층 301-A1호 ([네이버지도](https://naver.me/FxX6O7F4), [카카오지도](https://place.map.kakao.com/23898931))
+대표 전화번호: 0507-1336-5600
 
-데이티움에 관심이 있으시거나 미래의 검색에 대해 이야기를 나누고 싶으시다면 언제나 환영입니다.
+회사 주소: 서울특별시 관악구 관악로 1 서울대학교 연구공원 본관 940동 338호 ([네이버지도](https://naver.me/xIhjTE9S), [카카오지도](https://place.map.kakao.com/17912906))
+
+데이티움에 관심이 있으시거나 이야기를 나누고 싶으시다면 언제나 환영입니다.
 
 ![Untitled](Overview%2062660ca395304cc18b778eac9bc0e638/Untitled.png)
